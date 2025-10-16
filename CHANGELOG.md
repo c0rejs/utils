@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.5 (2025-10-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix error handling (● [e06df1f](https://github.com/softvisio-node/utils/commit/e06df1f); 👬 zdm)
+
+Compare with the previous release: [v2.10.4](https://github.com/softvisio-node/utils/compare/v2.10.4...v2.10.5)
+
 ### v2.10.4 (2025-08-10)
 
 **Code refactoring:**
