@@ -4,137 +4,137 @@
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix error handling (● [e06df1f](https://github.com/softvisio-node/utils/commit/e06df1f); 👬 zdm)
+- \[PATCH] fix: fix error handling (● [e06df1f](https://github.com/c0rejs/utils/commit/e06df1f); 👬 zdm)
 
-Compare with the previous release: [v2.10.4](https://github.com/softvisio-node/utils/compare/v2.10.4...v2.10.5)
+Compare with the previous release: [v2.10.4](https://github.com/c0rejs/utils/compare/v2.10.4...v2.10.5)
 
 ### v2.10.4 (2025-08-10)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: add phc saltEncoding option (● [ec7b7e1](https://github.com/softvisio-node/utils/commit/ec7b7e1); 👬 zdm)
+- \[PATCH] refactor: add phc saltEncoding option (● [ec7b7e1](https://github.com/c0rejs/utils/commit/ec7b7e1); 👬 zdm)
 
-Compare with the previous release: [v2.10.3](https://github.com/softvisio-node/utils/compare/v2.10.3...v2.10.4)
+Compare with the previous release: [v2.10.3](https://github.com/c0rejs/utils/compare/v2.10.3...v2.10.4)
 
 ### v2.10.3 (2025-08-10)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix phc numbers parser (● [a4b93c6](https://github.com/softvisio-node/utils/commit/a4b93c6); 👬 zdm)
+- \[PATCH] fix: fix phc numbers parser (● [a4b93c6](https://github.com/c0rejs/utils/commit/a4b93c6); 👬 zdm)
 
-Compare with the previous release: [v2.10.2](https://github.com/softvisio-node/utils/compare/v2.10.2...v2.10.3)
+Compare with the previous release: [v2.10.2](https://github.com/c0rejs/utils/compare/v2.10.2...v2.10.3)
 
 ### v2.10.2 (2025-08-10)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: parse integer phc params (● [1df493c](https://github.com/softvisio-node/utils/commit/1df493c); 👬 zdm)
+- \[PATCH] refactor: parse integer phc params (● [1df493c](https://github.com/c0rejs/utils/commit/1df493c); 👬 zdm)
 
-Compare with the previous release: [v2.10.1](https://github.com/softvisio-node/utils/compare/v2.10.1...v2.10.2)
+Compare with the previous release: [v2.10.1](https://github.com/c0rejs/utils/compare/v2.10.1...v2.10.2)
 
 ### v2.10.1 (2025-08-09)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: refactor phc api (● [49846cb](https://github.com/softvisio-node/utils/commit/49846cb), [303f3f5](https://github.com/softvisio-node/utils/commit/303f3f5); 👬 zdm)
+- \[PATCH] refactor: refactor phc api (● [49846cb](https://github.com/c0rejs/utils/commit/49846cb), [303f3f5](https://github.com/c0rejs/utils/commit/303f3f5); 👬 zdm)
 
-Compare with the previous release: [v2.10.0](https://github.com/softvisio-node/utils/compare/v2.10.0...v2.10.1)
+Compare with the previous release: [v2.10.0](https://github.com/c0rejs/utils/compare/v2.10.0...v2.10.1)
 
 ### v2.10.0 (2025-08-09)
 
 **New features:**
 
-- \[MINOR] feat: add phc api (● [b74fe2b](https://github.com/softvisio-node/utils/commit/b74fe2b), [d257d4c](https://github.com/softvisio-node/utils/commit/d257d4c); 👬 zdm)
+- \[MINOR] feat: add phc api (● [b74fe2b](https://github.com/c0rejs/utils/commit/b74fe2b), [d257d4c](https://github.com/c0rejs/utils/commit/d257d4c); 👬 zdm)
 
-Compare with the previous release: [v2.9.6](https://github.com/softvisio-node/utils/compare/v2.9.6...v2.10.0)
+Compare with the previous release: [v2.9.6](https://github.com/c0rejs/utils/compare/v2.9.6...v2.10.0)
 
 ### v2.9.6 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [17d1418](https://github.com/softvisio-node/utils/commit/17d1418); 👬 zdm)
+- style: update .npmrc (● [17d1418](https://github.com/c0rejs/utils/commit/17d1418); 👬 zdm)
 
-Compare with the previous release: [v2.9.5](https://github.com/softvisio-node/utils/compare/v2.9.5...v2.9.6)
+Compare with the previous release: [v2.9.5](https://github.com/c0rejs/utils/compare/v2.9.5...v2.9.6)
 
 ### v2.9.5 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [3b8bd81](https://github.com/softvisio-node/utils/commit/3b8bd81); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [3b8bd81](https://github.com/c0rejs/utils/commit/3b8bd81); 👬 zdm)
 
-Compare with the previous release: [v2.9.4](https://github.com/softvisio-node/utils/compare/v2.9.4...v2.9.5)
+Compare with the previous release: [v2.9.4](https://github.com/c0rejs/utils/compare/v2.9.4...v2.9.5)
 
 ### v2.9.4 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [085d659](https://github.com/softvisio-node/utils/commit/085d659); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [085d659](https://github.com/c0rejs/utils/commit/085d659); 👬 zdm)
 
-Compare with the previous release: [v2.9.3](https://github.com/softvisio-node/utils/compare/v2.9.3...v2.9.4)
+Compare with the previous release: [v2.9.3](https://github.com/c0rejs/utils/compare/v2.9.3...v2.9.4)
 
 ### v2.9.3 (2025-07-16)
 
 **Other changes:**
 
-- style: lint (● [080fbc3](https://github.com/softvisio-node/utils/commit/080fbc3); 👬 zdm)
+- style: lint (● [080fbc3](https://github.com/c0rejs/utils/commit/080fbc3); 👬 zdm)
 
-Compare with the previous release: [v2.9.2](https://github.com/softvisio-node/utils/compare/v2.9.2...v2.9.3)
+Compare with the previous release: [v2.9.2](https://github.com/c0rejs/utils/compare/v2.9.2...v2.9.3)
 
 ### v2.9.2 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [a880d83](https://github.com/softvisio-node/utils/commit/a880d83); 👬 zdm)
+- docs: update (● [a880d83](https://github.com/c0rejs/utils/commit/a880d83); 👬 zdm)
 
-Compare with the previous release: [v2.9.1](https://github.com/softvisio-node/utils/compare/v2.9.1...v2.9.2)
+Compare with the previous release: [v2.9.1](https://github.com/c0rejs/utils/compare/v2.9.1...v2.9.2)
 
 ### v2.9.1 (2025-07-14)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: refactor ansi (● [ec011ae](https://github.com/softvisio-node/utils/commit/ec011ae); 👬 zdm)
+- \[PATCH] refactor: refactor ansi (● [ec011ae](https://github.com/c0rejs/utils/commit/ec011ae); 👬 zdm)
 
-Compare with the previous release: [v2.9.0](https://github.com/softvisio-node/utils/compare/v2.9.0...v2.9.1)
+Compare with the previous release: [v2.9.0](https://github.com/c0rejs/utils/compare/v2.9.0...v2.9.1)
 
 ### v2.9.0 (2025-07-14)
 
 **New features:**
 
-- \[MINOR] feat: add ansi.enble() method (● [e27d211](https://github.com/softvisio-node/utils/commit/e27d211); 👬 zdm)
+- \[MINOR] feat: add ansi.enble() method (● [e27d211](https://github.com/c0rejs/utils/commit/e27d211); 👬 zdm)
 
-Compare with the previous release: [v2.8.1](https://github.com/softvisio-node/utils/compare/v2.8.1...v2.9.0)
+Compare with the previous release: [v2.8.1](https://github.com/c0rejs/utils/compare/v2.8.1...v2.9.0)
 
 ### v2.8.1 (2025-07-13)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: update ansi enable / disable methods (● [59c8d50](https://github.com/softvisio-node/utils/commit/59c8d50); 👬 zdm)
+- \[PATCH] refactor: update ansi enable / disable methods (● [59c8d50](https://github.com/c0rejs/utils/commit/59c8d50); 👬 zdm)
 
-Compare with the previous release: [v2.8.0](https://github.com/softvisio-node/utils/compare/v2.8.0...v2.8.1)
+Compare with the previous release: [v2.8.0](https://github.com/c0rejs/utils/compare/v2.8.0...v2.8.1)
 
 ### v2.8.0 (2025-07-13)
 
 **New features:**
 
-- \[MINOR] feat: add more ansi styles (● [4275f65](https://github.com/softvisio-node/utils/commit/4275f65); 👬 zdm)
+- \[MINOR] feat: add more ansi styles (● [4275f65](https://github.com/c0rejs/utils/commit/4275f65); 👬 zdm)
 
-Compare with the previous release: [v2.7.7](https://github.com/softvisio-node/utils/compare/v2.7.7...v2.8.0)
+Compare with the previous release: [v2.7.7](https://github.com/c0rejs/utils/compare/v2.7.7...v2.8.0)
 
 ### v2.7.7 (2025-07-09)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix pipeline (● [efad69f](https://github.com/softvisio-node/utils/commit/efad69f); 👬 zdm)
+- \[PATCH] fix: fix pipeline (● [efad69f](https://github.com/c0rejs/utils/commit/efad69f); 👬 zdm)
 
-Compare with the previous release: [v2.7.6](https://github.com/softvisio-node/utils/compare/v2.7.6...v2.7.7)
+Compare with the previous release: [v2.7.6](https://github.com/c0rejs/utils/compare/v2.7.6...v2.7.7)
 
 ### v2.7.6 (2025-07-07)
 
 **Code refactoring:**
 
-- \[PATCH] refactor: replace stream pipe with pipeline (● [de1d1ad](https://github.com/softvisio-node/utils/commit/de1d1ad); 👬 zdm)
+- \[PATCH] refactor: replace stream pipe with pipeline (● [de1d1ad](https://github.com/c0rejs/utils/commit/de1d1ad); 👬 zdm)
 
-Compare with the previous release: [v2.7.5](https://github.com/softvisio-node/utils/compare/v2.7.5...v2.7.6)
+Compare with the previous release: [v2.7.5](https://github.com/c0rejs/utils/compare/v2.7.5...v2.7.6)
 
 ### v2.7.5 (2025-06-11)
 
@@ -142,7 +142,7 @@ Compare with the previous release: [v2.7.5](https://github.com/softvisio-node/ut
 
 - \[MINOR] feat: rename ansi class (● 7a254fd; 👬 zdm)
 
-Compare with the previous release: [v2.7.4](https://github.com/softvisio-node/utils/compare/v2.7.4...v2.7.5)
+Compare with the previous release: [v2.7.4](https://github.com/c0rejs/utils/compare/v2.7.4...v2.7.5)
 
 ### v2.7.4 (2025-06-07)
 
@@ -150,7 +150,7 @@ Compare with the previous release: [v2.7.4](https://github.com/softvisio-node/ut
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v2.7.3](https://github.com/softvisio-node/utils/compare/v2.7.3...v2.7.4)
+Compare with the previous release: [v2.7.3](https://github.com/c0rejs/utils/compare/v2.7.3...v2.7.4)
 
 ### v2.7.3 (2025-06-01)
 
@@ -158,7 +158,7 @@ Compare with the previous release: [v2.7.3](https://github.com/softvisio-node/ut
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v2.7.2](https://github.com/softvisio-node/utils/compare/v2.7.2...v2.7.3)
+Compare with the previous release: [v2.7.2](https://github.com/c0rejs/utils/compare/v2.7.2...v2.7.3)
 
 ### 2.7.2 (2025-05-08)
 
@@ -166,7 +166,7 @@ Other changes:
 
 - chore: refactor ansi
 
-Compare with the previous release: [`v2.7.1...v2.7.2`](https://github.com/softvisio-node/utils/compare/v2.7.1...v2.7.2)
+Compare with the previous release: [`v2.7.1...v2.7.2`](https://github.com/c0rejs/utils/compare/v2.7.1...v2.7.2)
 
 ### 2.7.1 (2025-05-08)
 
@@ -174,7 +174,7 @@ Other changes:
 
 - chore: update ansi url params
 
-Compare with the previous release: [`v2.7.0...v2.7.1`](https://github.com/softvisio-node/utils/compare/v2.7.0...v2.7.1)
+Compare with the previous release: [`v2.7.0...v2.7.1`](https://github.com/c0rejs/utils/compare/v2.7.0...v2.7.1)
 
 ### 2.7.0 (2025-05-08)
 
@@ -182,7 +182,7 @@ Features:
 
 - feat: add ansi link
 
-Compare with the previous release: [`v2.6.17...v2.7.0`](https://github.com/softvisio-node/utils/compare/v2.6.17...v2.7.0)
+Compare with the previous release: [`v2.6.17...v2.7.0`](https://github.com/c0rejs/utils/compare/v2.6.17...v2.7.0)
 
 ### 2.6.17 (2025-03-26)
 
@@ -190,7 +190,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v2.6.16...v2.6.17`](https://github.com/softvisio-node/utils/compare/v2.6.16...v2.6.17)
+Compare with the previous release: [`v2.6.16...v2.6.17`](https://github.com/c0rejs/utils/compare/v2.6.16...v2.6.17)
 
 ### 2.6.16 (2025-03-04)
 
@@ -198,7 +198,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.6.15...v2.6.16`](https://github.com/softvisio-node/utils/compare/v2.6.15...v2.6.16)
+Compare with the previous release: [`v2.6.15...v2.6.16`](https://github.com/c0rejs/utils/compare/v2.6.15...v2.6.16)
 
 ### 2.6.15 (2025-03-04)
 
@@ -206,7 +206,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v2.6.14...v2.6.15`](https://github.com/softvisio-node/utils/compare/v2.6.14...v2.6.15)
+Compare with the previous release: [`v2.6.14...v2.6.15`](https://github.com/c0rejs/utils/compare/v2.6.14...v2.6.15)
 
 ### 2.6.14 (2025-03-01)
 
@@ -214,7 +214,7 @@ Other changes:
 
 - chore: code cleanup
 
-Compare with the previous release: [`v2.6.13...v2.6.14`](https://github.com/softvisio-node/utils/compare/v2.6.13...v2.6.14)
+Compare with the previous release: [`v2.6.13...v2.6.14`](https://github.com/c0rejs/utils/compare/v2.6.13...v2.6.14)
 
 ### 2.6.13 (2025-02-27)
 
@@ -222,7 +222,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v2.6.12...v2.6.13`](https://github.com/softvisio-node/utils/compare/v2.6.12...v2.6.13)
+Compare with the previous release: [`v2.6.12...v2.6.13`](https://github.com/c0rejs/utils/compare/v2.6.12...v2.6.13)
 
 ### 2.6.12 (2025-02-26)
 
@@ -230,7 +230,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v2.6.11...v2.6.12`](https://github.com/softvisio-node/utils/compare/v2.6.11...v2.6.12)
+Compare with the previous release: [`v2.6.11...v2.6.12`](https://github.com/c0rejs/utils/compare/v2.6.11...v2.6.12)
 
 ### 2.6.11 (2025-02-19)
 
@@ -238,7 +238,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v2.6.10...v2.6.11`](https://github.com/softvisio-node/utils/compare/v2.6.10...v2.6.11)
+Compare with the previous release: [`v2.6.10...v2.6.11`](https://github.com/c0rejs/utils/compare/v2.6.10...v2.6.11)
 
 ### 2.6.10 (2025-02-16)
 
@@ -246,7 +246,7 @@ Fixes:
 
 - fix: code typo
 
-Compare with the previous release: [`v2.6.9...v2.6.10`](https://github.com/softvisio-node/utils/compare/v2.6.9...v2.6.10)
+Compare with the previous release: [`v2.6.9...v2.6.10`](https://github.com/c0rejs/utils/compare/v2.6.9...v2.6.10)
 
 ### 2.6.9 (2025-02-16)
 
@@ -254,7 +254,7 @@ Other changes:
 
 - chore: refactor resources
 
-Compare with the previous release: [`v2.6.8...v2.6.9`](https://github.com/softvisio-node/utils/compare/v2.6.8...v2.6.9)
+Compare with the previous release: [`v2.6.8...v2.6.9`](https://github.com/c0rejs/utils/compare/v2.6.8...v2.6.9)
 
 ### 2.6.8 (2025-02-14)
 
@@ -262,7 +262,7 @@ Other changes:
 
 - chore: update resources logger
 
-Compare with the previous release: [`v2.6.7...v2.6.8`](https://github.com/softvisio-node/utils/compare/v2.6.7...v2.6.8)
+Compare with the previous release: [`v2.6.7...v2.6.8`](https://github.com/c0rejs/utils/compare/v2.6.7...v2.6.8)
 
 ### 2.6.7 (2025-02-12)
 
@@ -271,7 +271,7 @@ Other changes:
 - chore: update log
 - chore: update resource name
 
-Compare with the previous release: [`v2.6.6...v2.6.7`](https://github.com/softvisio-node/utils/compare/v2.6.6...v2.6.7)
+Compare with the previous release: [`v2.6.6...v2.6.7`](https://github.com/c0rejs/utils/compare/v2.6.6...v2.6.7)
 
 ### 2.6.6 (2025-02-12)
 
@@ -279,7 +279,7 @@ Other changes:
 
 - chore: improve callable
 
-Compare with the previous release: [`v2.6.5...v2.6.6`](https://github.com/softvisio-node/utils/compare/v2.6.5...v2.6.6)
+Compare with the previous release: [`v2.6.5...v2.6.6`](https://github.com/c0rejs/utils/compare/v2.6.5...v2.6.6)
 
 ### 2.6.5 (2025-02-12)
 
@@ -288,7 +288,7 @@ Other changes:
 - chore: fix callable proxy
 - chore: refactor ansi
 
-Compare with the previous release: [`v2.6.4...v2.6.5`](https://github.com/softvisio-node/utils/compare/v2.6.4...v2.6.5)
+Compare with the previous release: [`v2.6.4...v2.6.5`](https://github.com/c0rejs/utils/compare/v2.6.4...v2.6.5)
 
 ### 2.6.4 (2025-02-11)
 
@@ -296,7 +296,7 @@ Other changes:
 
 - chore: refactor ansi
 
-Compare with the previous release: [`v2.6.3...v2.6.4`](https://github.com/softvisio-node/utils/compare/v2.6.3...v2.6.4)
+Compare with the previous release: [`v2.6.3...v2.6.4`](https://github.com/c0rejs/utils/compare/v2.6.3...v2.6.4)
 
 ### 2.6.3 (2025-02-10)
 
@@ -304,7 +304,7 @@ Other changes:
 
 - chore: refactor ansi
 
-Compare with the previous release: [`v2.6.2...v2.6.3`](https://github.com/softvisio-node/utils/compare/v2.6.2...v2.6.3)
+Compare with the previous release: [`v2.6.2...v2.6.3`](https://github.com/c0rejs/utils/compare/v2.6.2...v2.6.3)
 
 ### 2.6.2 (2025-01-17)
 
@@ -312,7 +312,7 @@ Other changes:
 
 - chore: remove padding from update report
 
-Compare with the previous release: [`v2.6.1...v2.6.2`](https://github.com/softvisio-node/utils/compare/v2.6.1...v2.6.2)
+Compare with the previous release: [`v2.6.1...v2.6.2`](https://github.com/c0rejs/utils/compare/v2.6.1...v2.6.2)
 
 ### 2.6.1 (2025-01-11)
 
@@ -320,7 +320,7 @@ Other changes:
 
 - chore: fix global resources location
 
-Compare with the previous release: [`v2.6.0...v2.6.1`](https://github.com/softvisio-node/utils/compare/v2.6.0...v2.6.1)
+Compare with the previous release: [`v2.6.0...v2.6.1`](https://github.com/c0rejs/utils/compare/v2.6.0...v2.6.1)
 
 ### 2.6.0 (2025-01-11)
 
@@ -328,7 +328,7 @@ Features:
 
 - feat: refactor env dirs
 
-Compare with the previous release: [`v2.5.1...v2.6.0`](https://github.com/softvisio-node/utils/compare/v2.5.1...v2.6.0)
+Compare with the previous release: [`v2.5.1...v2.6.0`](https://github.com/c0rejs/utils/compare/v2.5.1...v2.6.0)
 
 ### 2.5.1 (2025-01-10)
 
@@ -336,7 +336,7 @@ Other changes:
 
 - chore: refactor resource read index
 
-[Compare with the previous release: v2.5.0...v2.5.1](https://github.com/softvisio-node/utils/compare/v2.5.0...v2.5.1)
+[Compare with the previous release: v2.5.0...v2.5.1](https://github.com/c0rejs/utils/compare/v2.5.0...v2.5.1)
 
 ### 2.5.0 (2025-01-10)
 
@@ -344,7 +344,7 @@ Features:
 
 - feat: add remote resource isInstalled property
 
-[Compare with the previous release: v2.4.3...v2.5.0](https://github.com/softvisio-node/utils/compare/v2.4.3...v2.5.0)
+[Compare with the previous release: v2.4.3...v2.5.0](https://github.com/c0rejs/utils/compare/v2.4.3...v2.5.0)
 
 ### 2.4.3 (2025-01-08)
 
@@ -352,7 +352,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v2.4.2 ... v2.4.3](https://github.com/softvisio-node/utils/compare/v2.4.2...v2.4.3)
+[Compare with the previous release: v2.4.2 ... v2.4.3](https://github.com/c0rejs/utils/compare/v2.4.2...v2.4.3)
 
 ### 2.4.2 (2025-01-08)
 
@@ -360,7 +360,7 @@ Other changes:
 
 - chore: fix options destructire
 
-[Compare with the previous release: v2.4.1 ... v2.4.2](https://github.com/softvisio-node/utils/compare/v2.4.1...v2.4.2)
+[Compare with the previous release: v2.4.1 ... v2.4.2](https://github.com/c0rejs/utils/compare/v2.4.1...v2.4.2)
 
 ### 2.4.1 (2025-01-08)
 
@@ -368,7 +368,7 @@ Other changes:
 
 - chore: remove external resource caller detection
 
-[Compare with the previous release: v2.4.0 ... v2.4.1](https://github.com/softvisio-node/utils/compare/v2.4.0...v2.4.1)
+[Compare with the previous release: v2.4.0 ... v2.4.1](https://github.com/c0rejs/utils/compare/v2.4.0...v2.4.1)
 
 ### 2.4.0 (2025-01-08)
 
@@ -376,7 +376,7 @@ Features:
 
 - feat: refactor external resources
 
-[Compare with the previous release: v2.3.0 ... v2.4.0](https://github.com/softvisio-node/utils/compare/v2.3.0...v2.4.0)
+[Compare with the previous release: v2.3.0 ... v2.4.0](https://github.com/c0rejs/utils/compare/v2.3.0...v2.4.0)
 
 ### 2.3.0 (2025-01-06)
 
@@ -385,7 +385,7 @@ Features:
 - feat: add env
 - feat: add external resource location option
 
-[Compare with the previous release: v2.2.0 ... v2.3.0](https://github.com/softvisio-node/utils/compare/v2.2.0...v2.3.0)
+[Compare with the previous release: v2.2.0 ... v2.3.0](https://github.com/c0rejs/utils/compare/v2.2.0...v2.3.0)
 
 ### 2.2.0 (2024-12-30)
 
@@ -393,7 +393,7 @@ Features:
 
 - feat: add external resource autoUpdate option
 
-[Compare with the previous release: v2.1.2 ... v2.2.0](https://github.com/softvisio-node/utils/compare/v2.1.2...v2.2.0)
+[Compare with the previous release: v2.1.2 ... v2.2.0](https://github.com/c0rejs/utils/compare/v2.1.2...v2.2.0)
 
 ### 2.1.2 (2024-12-18)
 
@@ -401,7 +401,7 @@ Other changes:
 
 - chore: update external resources timeouts
 
-[Compare with the previous release: v2.1.1 ... v2.1.2](https://github.com/softvisio-node/utils/compare/v2.1.1...v2.1.2)
+[Compare with the previous release: v2.1.1 ... v2.1.2](https://github.com/c0rejs/utils/compare/v2.1.1...v2.1.2)
 
 ### 2.1.1 (2024-12-18)
 
@@ -409,7 +409,7 @@ Other changes:
 
 - chore: fix property accessor
 
-[Compare with the previous release: v2.1.0 ... v2.1.1](https://github.com/softvisio-node/utils/compare/v2.1.0...v2.1.1)
+[Compare with the previous release: v2.1.0 ... v2.1.1](https://github.com/c0rejs/utils/compare/v2.1.0...v2.1.1)
 
 ### 2.1.0 (2024-12-18)
 
@@ -417,7 +417,7 @@ Features:
 
 - feat: external resource check timeout
 
-[Compare with the previous release: v2.0.1 ... v2.1.0](https://github.com/softvisio-node/utils/compare/v2.0.1...v2.1.0)
+[Compare with the previous release: v2.0.1 ... v2.1.0](https://github.com/c0rejs/utils/compare/v2.0.1...v2.1.0)
 
 ### 2.0.1 (2024-12-07)
 
@@ -425,7 +425,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v2.0.0 ... v2.0.1](https://github.com/softvisio-node/utils/compare/v2.0.0...v2.0.1)
+[Compare with the previous release: v2.0.0 ... v2.0.1](https://github.com/c0rejs/utils/compare/v2.0.0...v2.0.1)
 
 ### 2.0.0 (2024-12-04)
 
@@ -433,7 +433,7 @@ Breaking changes:
 
 - feat!: release major version
 
-[Compare with the previous release: v1.4.2 ... v2.0.0](https://github.com/softvisio-node/utils/compare/v1.4.2...v2.0.0)
+[Compare with the previous release: v1.4.2 ... v2.0.0](https://github.com/c0rejs/utils/compare/v1.4.2...v2.0.0)
 
 Migration notes:
 
@@ -443,13 +443,13 @@ See the list of the breaking changes for details.
 
 No changes since the previous release.
 
-[Compare with the previous release: v1.4.1 ... v1.4.2](https://github.com/softvisio-node/utils/compare/v1.4.1...v1.4.2)
+[Compare with the previous release: v1.4.1 ... v1.4.2](https://github.com/c0rejs/utils/compare/v1.4.1...v1.4.2)
 
 ### 1.4.1 (2024-12-04)
 
 No changes since the previous release.
 
-[Compare with the previous release: v1.4.0 ... v1.4.1](https://github.com/softvisio-node/utils/compare/v1.4.0...v1.4.1)
+[Compare with the previous release: v1.4.0 ... v1.4.1](https://github.com/c0rejs/utils/compare/v1.4.0...v1.4.1)
 
 ### 1.4.0 (2024-12-04)
 
@@ -457,7 +457,7 @@ Features:
 
 - feat: add resource getResourcePath()
 
-[Compare with the previous release: v1.3.2 ... v1.4.0](https://github.com/softvisio-node/utils/compare/v1.3.2...v1.4.0)
+[Compare with the previous release: v1.3.2 ... v1.4.0](https://github.com/c0rejs/utils/compare/v1.3.2...v1.4.0)
 
 ### 1.3.2 (2024-11-27)
 
@@ -465,13 +465,13 @@ Other changes:
 
 - chore: update external resource index location
 
-[Compare with the previous release: v1.3.1 ... v1.3.2](https://github.com/softvisio-node/utils/compare/v1.3.1...v1.3.2)
+[Compare with the previous release: v1.3.1 ... v1.3.2](https://github.com/c0rejs/utils/compare/v1.3.1...v1.3.2)
 
 ### 1.3.1 (2024-11-27)
 
 No changes since the previous release.
 
-[Compare with the previous release: v1.3.0 ... v1.3.1](https://github.com/softvisio-node/utils/compare/v1.3.0...v1.3.1)
+[Compare with the previous release: v1.3.0 ... v1.3.1](https://github.com/c0rejs/utils/compare/v1.3.0...v1.3.1)
 
 ### 1.3.0 (2024-11-27)
 
@@ -479,7 +479,7 @@ Features:
 
 - feat: separate external resources index
 
-[Compare with the previous release: v1.2.31 ... v1.3.0](https://github.com/softvisio-node/utils/compare/v1.2.31...v1.3.0)
+[Compare with the previous release: v1.2.31 ... v1.3.0](https://github.com/c0rejs/utils/compare/v1.2.31...v1.3.0)
 
 ### 1.2.31 (2024-11-27)
 
@@ -487,7 +487,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.2.30 ... v1.2.31](https://github.com/softvisio-node/utils/compare/v1.2.30...v1.2.31)
+[Compare with the previous release: v1.2.30 ... v1.2.31](https://github.com/c0rejs/utils/compare/v1.2.30...v1.2.31)
 
 ### 1.2.30 (2024-11-27)
 
@@ -495,7 +495,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.2.29 ... v1.2.30](https://github.com/softvisio-node/utils/compare/v1.2.29...v1.2.30)
+[Compare with the previous release: v1.2.29 ... v1.2.30](https://github.com/c0rejs/utils/compare/v1.2.29...v1.2.30)
 
 ### 1.2.29 (2024-11-11)
 
@@ -503,7 +503,7 @@ Other changes:
 
 - chore: check remote if resource if expired
 
-[Compare with the previous release: v1.2.28 ... v1.2.29](https://github.com/softvisio-node/utils/compare/v1.2.28...v1.2.29)
+[Compare with the previous release: v1.2.28 ... v1.2.29](https://github.com/c0rejs/utils/compare/v1.2.28...v1.2.29)
 
 ### 1.2.28 (2024-11-11)
 
@@ -511,7 +511,7 @@ Other changes:
 
 - chore: check remote if resource if expired
 
-[Compare with the previous release: v1.2.27 ... v1.2.28](https://github.com/softvisio-node/utils/compare/v1.2.27...v1.2.28)
+[Compare with the previous release: v1.2.27 ... v1.2.28](https://github.com/c0rejs/utils/compare/v1.2.27...v1.2.28)
 
 ### 1.2.27 (2024-11-11)
 
@@ -519,7 +519,7 @@ Other changes:
 
 - chore: refactor external resource builder
 
-[Compare with the previous release: v1.2.26 ... v1.2.27](https://github.com/softvisio-node/utils/compare/v1.2.26...v1.2.27)
+[Compare with the previous release: v1.2.26 ... v1.2.27](https://github.com/c0rejs/utils/compare/v1.2.26...v1.2.27)
 
 ### 1.2.26 (2024-11-07)
 
@@ -527,7 +527,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.2.25 ... v1.2.26](https://github.com/softvisio-node/utils/compare/v1.2.25...v1.2.26)
+[Compare with the previous release: v1.2.25 ... v1.2.26](https://github.com/c0rejs/utils/compare/v1.2.25...v1.2.26)
 
 ### 1.2.25 (2024-10-29)
 
@@ -535,19 +535,19 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v1.2.24 ... v1.2.25](https://github.com/softvisio-node/utils/compare/v1.2.24...v1.2.25)
+[Compare with the previous release: v1.2.24 ... v1.2.25](https://github.com/c0rejs/utils/compare/v1.2.24...v1.2.25)
 
 ### 1.2.24 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.23...v1.2.24)
+[Full list of the changes](https://github.com/c0rejs/utils/compare/v1.2.23...v1.2.24)
 
 ### 1.2.23 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.22...v1.2.23)
+[Full list of the changes](https://github.com/c0rejs/utils/compare/v1.2.22...v1.2.23)
 
 ### 1.2.22 (2024-10-11)
 
@@ -555,7 +555,7 @@ Fixes:
 
 - fix: remote update status
 
-[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.21...v1.2.22)
+[Full list of the changes](https://github.com/c0rejs/utils/compare/v1.2.21...v1.2.22)
 
 ### 1.2.21 (2024-10-11)
 
@@ -563,7 +563,7 @@ Fixes:
 
 - fix: remote update status
 
-[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.20...v1.2.21)
+[Full list of the changes](https://github.com/c0rejs/utils/compare/v1.2.20...v1.2.21)
 
 ### 1.2.20 (2024-10-11)
 
@@ -571,7 +571,7 @@ Fixes:
 
 - fix: external resources log
 
-[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.19...v1.2.20)
+[Full list of the changes](https://github.com/c0rejs/utils/compare/v1.2.19...v1.2.20)
 
 ### 1.2.19 (2024-10-09)
 
