@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.10.6 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [e4b00d8](https://github.com/c0rejs/utils/commit/e4b00d8), [11763d1](https://github.com/c0rejs/utils/commit/11763d1); 👬 zdm)
+
+- chore(metadata): update package metadata (● [deb7e61](https://github.com/c0rejs/utils/commit/deb7e61); 👬 zdm)
+
+Compare with the previous release: [v2.10.5](https://github.com/c0rejs/utils/compare/v2.10.5...v2.10.6)
+
 ### v2.10.5 (2025-10-16)
 
 **Bug fixes:**
