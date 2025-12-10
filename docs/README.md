@@ -5,5 +5,5 @@ Utility modules.
 ## Install
 
 ```sh
-npm install @softvisio/utils
+npm install @c0rejs/utils
 ```

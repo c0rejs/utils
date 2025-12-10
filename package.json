@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/utils",
+    "name": "@c0rejs/utils",
     "version": "2.10.5",
     "description": "External resources",
     "keywords": [
@@ -31,7 +31,7 @@
         "/src"
     ],
     "peerDependencies": {
-        "@softvisio/result": "^6.1.1",
+        "@c0rejs/result": "^6.1.1",
         "tar": "^7.0.0"
     }
 }
