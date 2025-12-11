@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.10.7 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [3095fbf](https://github.com/c0rejs/utils/commit/3095fbf); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [4d882ce](https://github.com/c0rejs/utils/commit/4d882ce); 👬 zdm)
+
+Compare with the previous release: [v2.10.6](https://github.com/c0rejs/utils/compare/v2.10.6...v2.10.7)
+
 ### v2.10.6 (2025-12-10)
 
 **Other changes:**
