@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.9 (2026-01-10)
+
+**Bug fixes:**
+
+- \[PATCH] fix: use Buffer.isBuffer() (● [c201326](https://github.com/c0rejs/utils/commit/c201326); 👬 zdm)
+
+Compare with the previous release: [v2.10.8](https://github.com/c0rejs/utils/compare/v2.10.8...v2.10.9)
+
 ### v2.10.8 (2026-01-05)
 
 **Other changes:**
