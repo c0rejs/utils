@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.11 (2026-01-28)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [23169a2](https://github.com/c0rejs/utils/commit/23169a2); 👬 zdm)
+
+Compare with the previous release: [v2.10.10](https://github.com/c0rejs/utils/compare/v2.10.10...v2.10.11)
+
 ### v2.10.10 (2026-01-27)
 
 **Other changes:**
