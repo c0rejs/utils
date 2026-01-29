@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.10.12 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.10.11](https://github.com/c0rejs/utils/compare/v2.10.11...v2.10.12)
+
 ### v2.10.11 (2026-01-28)
 
 **Other changes:**
