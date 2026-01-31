@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.13 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [09f9aec](https://github.com/corejslib/utils/commit/09f9aec), [f8c2422](https://github.com/corejslib/utils/commit/f8c2422), [d8c1528](https://github.com/corejslib/utils/commit/d8c1528); 👬 zdm)
+
+Compare with the previous release: [v2.10.12](https://github.com/corejslib/utils/compare/v2.10.12...v2.10.13)
+
 ### v2.10.12 (2026-01-29)
 
 No changes since the previous release.
