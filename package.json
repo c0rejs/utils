@@ -1,19 +1,19 @@
 {
-    "name": "@c0rejs/utils",
+    "name": "@corejslib/utils",
     "version": "2.10.12",
     "description": "External resources",
     "keywords": [
         "softvisio",
         "resources"
     ],
-    "homepage": "https://c0rejs.github.io/utils/",
+    "homepage": "https://corejslib.github.io/utils/",
     "bugs": {
-        "url": "https://github.com/c0rejs/utils/issues",
+        "url": "https://github.com/corejslib/utils/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/utils.git"
+        "url": "git+https://github.com/corejslib/utils.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
@@ -31,7 +31,7 @@
         "/src"
     ],
     "peerDependencies": {
-        "@c0rejs/result": "^6.1.1",
+        "@corejslib/result": "^6.1.1",
         "tar": "^7.0.0"
     }
 }
