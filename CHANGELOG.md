@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.0 (2026-02-27)
+
+**New features:**
+
+- \[MINOR] feat: move phc to core (● [1e4eb19](https://github.com/corejslib/utils/commit/1e4eb19); 👬 zdm)
+
+Compare with the previous release: [v2.10.15](https://github.com/corejslib/utils/compare/v2.10.15...v2.11.0)
+
 ### v2.10.15 (2026-02-09)
 
 **Bug fixes:**
