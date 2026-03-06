@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.1 (2026-03-06)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [6d072c8](https://github.com/corejslib/utils/commit/6d072c8); 👬 zdm)
+
+Compare with the previous release: [v2.11.0](https://github.com/corejslib/utils/compare/v2.11.0...v2.11.1)
+
 ### v2.11.0 (2026-02-27)
 
 **New features:**
