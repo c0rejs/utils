@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.2 (2026-03-11)
+
+**Other changes:**
+
+- style: lint (● [caaecce](https://github.com/corejslib/utils/commit/caaecce); 👬 zdm)
+
+Compare with the previous release: [v2.11.1](https://github.com/corejslib/utils/compare/v2.11.1...v2.11.2)
+
 ### v2.11.1 (2026-03-06)
 
 **Other changes:**
