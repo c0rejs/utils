@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.12.1 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [a08833e](https://github.com/corejslib/utils/commit/a08833e); 👬 zdm)
+
+Compare with the previous release: [v2.12.0...v2.12.1](https://github.com/corejslib/utils/compare/v2.12.0...v2.12.1)
+
 ### v2.12.0 (2026-03-27)
 
 **New features:**
