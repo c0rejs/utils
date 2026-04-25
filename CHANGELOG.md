@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.12.2 (2026-04-25)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix result constructor (● [e03fae6](https://github.com/corejslib/utils/commit/e03fae6); 👬 zdm)
+
+Compare with the previous release: [v2.12.1...v2.12.2](https://github.com/corejslib/utils/compare/v2.12.1...v2.12.2)
+
 ### v2.12.1 (2026-04-20)
 
 **Code refactoring:**
