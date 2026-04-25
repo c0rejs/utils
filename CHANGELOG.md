@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.12.3 (2026-04-25)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.12.2...v2.12.3](https://github.com/corejslib/utils/compare/v2.12.2...v2.12.3)
+
 ### v2.12.2 (2026-04-25)
 
 **Bug fixes:**
