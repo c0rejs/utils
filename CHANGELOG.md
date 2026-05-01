@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.13.1 (2026-05-01)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: set ansi function name (● [6d608cc](https://github.com/corejslib/utils/commit/6d608cc); 👬 zdm)
+
+Compare with the previous release: [v2.13.0...v2.13.1](https://github.com/corejslib/utils/compare/v2.13.0...v2.13.1)
+
 ### v2.13.0 (2026-05-01)
 
 **New features:**
