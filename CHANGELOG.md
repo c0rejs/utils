@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.13.3 (2026-05-09)
+
+**Other changes:**
+
+- style: lint (● [260cbf9](https://github.com/corejslib/utils/commit/260cbf9); 👬 zdm)
+
+Compare with the previous release: [v2.13.2...v2.13.3](https://github.com/corejslib/utils/compare/v2.13.2...v2.13.3)
+
 ### v2.13.2 (2026-05-07)
 
 **Code refactoring:**
