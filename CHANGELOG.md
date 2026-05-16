@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.13.5 (2026-05-16)
+
+**Other changes:**
+
+- docs: update readme (● [09a3b9c](https://github.com/corejslib/utils/commit/09a3b9c); 👬 zdm)
+
+Compare with the previous release: [v2.13.4...v2.13.5](https://github.com/corejslib/utils/compare/v2.13.4...v2.13.5)
+
 ### v2.13.4 (2026-05-11)
 
 **Code refactoring:**
