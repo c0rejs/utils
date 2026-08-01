@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.13.10 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [e05e1f8](https://github.com/corejslib/utils/commit/e05e1f8); 👬 zdm)
+
+Compare with the previous release: [v2.13.9...v2.13.10](https://github.com/corejslib/utils/compare/v2.13.9...v2.13.10)
+
 ### v2.13.9 (2026-07-15)
 
 **Other changes:**
