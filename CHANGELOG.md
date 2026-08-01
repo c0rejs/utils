@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.13.11 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [e9fe318](https://github.com/corejslib/utils/commit/e9fe318), [b52a8a3](https://github.com/corejslib/utils/commit/b52a8a3); 👬 zdm)
+
+Compare with the previous release: [v2.13.10...v2.13.11](https://github.com/corejslib/utils/compare/v2.13.10...v2.13.11)
+
 ### v2.13.10 (2026-08-01)
 
 **Bug fixes:**
