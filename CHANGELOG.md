@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.15.1 (2026-08-24)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename ansi.regExp to ansi.regexp (● [9591587](https://github.com/corejslib/utils/commit/9591587); 👬 zdm)
+
+Compare with the previous release: [v2.15.0...v2.15.1](https://github.com/corejslib/utils/compare/v2.15.0...v2.15.1)
+
 ### v2.15.0 (2026-08-24)
 
 **New features:**
