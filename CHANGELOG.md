@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.14.0 (2026-08-24)
+
+**New features:**
+
+- \[MINOR] feat: add ansi gray colors (● [a2ece3a](https://github.com/corejslib/utils/commit/a2ece3a); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: remove grey color alias (● [7150177](https://github.com/corejslib/utils/commit/7150177); 👬 zdm)
+
+Compare with the previous release: [v2.13.12...v2.14.0](https://github.com/corejslib/utils/compare/v2.13.12...v2.14.0)
+
 ### v2.13.12 (2026-08-04)
 
 **Other changes:**
