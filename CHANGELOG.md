@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.15.0 (2026-08-24)
+
+**New features:**
+
+- \[MINOR] feat: add ansi pushEnabled method (● [a55d940](https://github.com/corejslib/utils/commit/a55d940); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: remove stream isTTY from ansi (● [6f8b460](https://github.com/corejslib/utils/commit/6f8b460); 👬 zdm)
+
+Compare with the previous release: [v2.14.0...v2.15.0](https://github.com/corejslib/utils/compare/v2.14.0...v2.15.0)
+
 ### v2.14.0 (2026-08-24)
 
 **New features:**
