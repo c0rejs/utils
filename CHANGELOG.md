@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.15.2 (2026-09-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename .install() to .update() (● [43d927c](https://github.com/corejslib/utils/commit/43d927c); 👬 zdm)
+
+Compare with the previous release: [v2.15.1...v2.15.2](https://github.com/corejslib/utils/compare/v2.15.1...v2.15.2)
+
 ### v2.15.1 (2026-08-24)
 
 **Code refactoring:**
